@@ -8,7 +8,7 @@ Que el esp32-cam sea cliente socket permite que el dispositivo salga a traves de
 TODO: Que busque comandos y la ip final de transmision en un servidor remoto
 TODO: Mejorar la velocidad de transmision de datos, capaz compilando con esspif
 
-# Python Socket Server con OPEN CV y YOLO
+# Python Socket Server con OPEN CV y YOLO (Thanks https://github.com/balajisrinivas/Object-Detection-on-images-using-YOLO)
 Servidor que recibe las imagenes y mediante Yolo detecta objetos, dentro de los algoritmos que probe es el mas rapido y el que mejor detecta los objetos.
 TODO: que yolo solo detecte personas y autos.
 TODO: que cuando detecte una persona envie mensajes via telegram con activacion y desactibacion mediante comandos telegram y/o agenda de tiempos
